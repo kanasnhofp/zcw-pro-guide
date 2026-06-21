@@ -1,2 +1,14 @@
 # zcw-pro-guide
-HTML page archive and documentation
+
+HTML 文件托管仓库
+
+本仓库用于保存页面发布产物，内容以实际文件为准。
+
+## 结构说明
+
+- 根目录用于存放发布页面
+- 仓库说明用于辅助识别用途
+
+## 公开访问
+
+公开访问状态取决于仓库权限、Pages 配置和 GitHub 同步状态。
